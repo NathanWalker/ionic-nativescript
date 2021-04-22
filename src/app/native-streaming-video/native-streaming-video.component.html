@@ -1,0 +1,20 @@
+<div class="cinema-page">
+
+  <div #detailsContainer class="details">
+    <div [innerHTML]="item.detail" class="description">
+    </div>
+  </div>
+  <div #backsplash class="backsplash" [class.web]="isWeb"></div>
+
+  <div *ngIf="showLowBatteryNote" class="low-battery-note" (click)="dismissLowBatteryNote()">
+    <div>
+      <ion-icon name="battery-dead-outline"></ion-icon>
+    </div>
+    <div class="note">
+      You're battery is about to die but don't worry. We'll save your place so you can resume watching where you left off when it's charged back up.
+      <div>
+        <ion-icon name="happy-outline"></ion-icon>
+      </div>
+    </div>
+  </div>
+</div>

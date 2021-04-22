@@ -1,0 +1,12 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button></ion-back-button>
+    </ion-buttons>
+    <ion-title>{{ item.title }}</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding">
+  <app-native-streaming-video [item]="item" [position]="videoPosition"></app-native-streaming-video>
+</ion-content>

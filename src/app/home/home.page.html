@@ -1,0 +1,9 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>NativeFlix</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding">
+  <app-card [list]="flickService.list" (viewItem)="viewItem($event)"></app-card>
+</ion-content>

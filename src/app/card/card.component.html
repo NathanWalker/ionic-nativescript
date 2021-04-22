@@ -1,0 +1,13 @@
+<div class="max-w-xl my-4 mx-auto" *ngFor="let card of list" (click)="tapItem(card)">
+  <div class="bg-white shadow-md rounded-b-xl dark:bg-black">
+    <div>
+      <img class="rounded-t-xl h-32 w-full object-cover"
+        [src]="card.image">
+    </div>
+    <div class="px-4 py-4 bg-white rounded-b-xl dark:bg-gray-900">
+      <h4 class="font-bold py-0 text-s text-gray-400 dark:text-gray-500 uppercase">{{card.genre}}</h4>
+      <h2 class="font-bold text-2xl text-gray-800 dark:text-gray-100">{{card.title}}</h2>
+      <p class="sm:text-sm text-s text-gray-500 mr-1 my-3 dark:text-gray-400">{{card.description}}</p>
+    </div>
+  </div>
+</div>

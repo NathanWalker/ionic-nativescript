@@ -1,0 +1,6 @@
+{
+	"appId": "io.nstudio.ngconf2021",
+	"appName": "ngconf",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
