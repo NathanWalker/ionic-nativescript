@@ -4,8 +4,8 @@ This example app demonstrates the following:
 
 * How to use NativeScript with Angular Ionic apps in Capacitor
 * Native iOS/Android UI with Web Dom interactions
-* How to build a native video streaming player yourself with NativeScript inside of Capacitor
-* How to handle battery level notices for iOS and Android using NativeScript inside of Capacitor
+* How to build a native video streaming player yourself with NativeScript for Capacitor
+* How to handle battery level notices for iOS and Android using NativeScript for Capacitor
 
 The Musical video clips used herein are only samples from recorded musical productions for free fairplay use and not intended to be high quality reproductions of those musicals in anyway.
 
