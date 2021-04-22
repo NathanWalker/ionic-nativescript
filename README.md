@@ -38,7 +38,7 @@ npx cap open android
 
 ## Troubleshooting 
 
-* Android
+### Android
 
 1. If you see a build/run issue related to 'node', for example like this:
 
@@ -62,7 +62,7 @@ Caused by: java.lang.ClassNotFoundException: Didn't find class "io.nstudio.ngcon
 
 This usually means a good project clean is needed. Try doing a full 'Project Clean' in Android Studio and build/run. If you still see the issue, try running once more - usually related to a clean/build cycle with Android Studio.
 
-* iOS
+### iOS
 
 Picture-in-Picture mode works only on a real device. You can plug an iPhone in and launch on your phone from Xcode to experience the PIP mode.
 
