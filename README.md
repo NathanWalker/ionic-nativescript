@@ -1,4 +1,4 @@
-## ngConf 2021 Angular Ionic app built with Capacitor + NativeScript
+## Angular Ionic app built with Capacitor + NativeScript
 
 This example app demonstrates the following:
 
