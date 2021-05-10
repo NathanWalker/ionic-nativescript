@@ -1,8 +1,8 @@
 {
-  "name": "ngconf",
+  "name": "ionicnativescript",
   "version": "1.0.0",
   "author": "Osei Fortune and Nathan Walker",
-  "homepage": "https://github.com/nstudio/ngconf2021",
+  "homepage": "https://github.com/NathanWalker/ionic-nativescript",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
