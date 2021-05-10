@@ -10,7 +10,7 @@ This example app demonstrates the following:
 
 The Musical video clips used herein are only samples from recorded musical productions for free fairplay use and not intended to be high quality reproductions of those musicals in anyway.
 
-https://user-images.githubusercontent.com/457187/115965078-45752e80-a4dc-11eb-9882-9cec86fa480a.mp4
+https://user-images.githubusercontent.com/457187/117690782-13b4c680-b170-11eb-997a-cb3f812a2a5f.mp4
 
 ## Reference docs
 
